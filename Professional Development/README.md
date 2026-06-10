@@ -1,4 +1,4 @@
-# Cybersecurity Certifications, Handa-on Training & Professional Development
+# Cybersecurity Certifications, Hands-on Training & Professional Development
 
 This section documents certifications, training achievements, badges, and learning activities completed as part of my cybersecurity development journey.
 
