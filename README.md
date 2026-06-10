@@ -32,8 +32,8 @@ Implemented enterprise data protection and compliance controls using Microsoft P
 
 ```text
 Projects/        - Hands-on cybersecurity projects and lab implementations
+Professional Development/  - Training, certifications, and learning achievements
 Writeups/        - Security investigations and technical write-ups
-Certifications/  - Training, certifications, and learning achievements
 ```
 
 ## Continuous Learning
